@@ -13,9 +13,11 @@ A CLI written in Python that imports AWS resources.
 git clone https://github.com/yourusername/terra-cli.git
 cd terra-cli
 ```
-2. `pip install -e`
+2. `pip install -e .`
 
 3. `terra scan`
+
+![terra_cli](images/terra_cli.png)
 
 4. Choose either EC2 or Event Bridge Rules. Press Enter.
 
