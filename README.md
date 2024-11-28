@@ -19,6 +19,6 @@ cd terra-cli
 
 ![terra_cli](images/terra_cli.png)
 
-4. Choose either EC2 or Event Bridge Rules. Press Enter.
+4. Choose either EC2 or Event Bridge Rules. Press Space to select. Enter to continue.
 
-5. Terraform files will be created in a `terraform` directory in the current working directory.
+5. Once Terra runs, Terraform files will be created in a `terraform` directory in the current working directory.
